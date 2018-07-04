@@ -1,0 +1,9 @@
+{
+  "name": "sol",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/sol",
+  "dependencies": {
+    "three": "0.94.0"
+  },
+  "version": "1.0.0"
+}
